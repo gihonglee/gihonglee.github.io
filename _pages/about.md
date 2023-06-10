@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Data Scientist at Under Armour. I have a Bacholor's Degree in Applied Mathematics at [Auburn University](https://www.auburn.edu/) and currently working on a Master's Degree in Data Science at [The University of Texas at Austin](https://www.utexas.edu/)
 
-I am intersted
+I am intersted in
 
 - Time Series Forecasting
 - Regression Analysis
@@ -25,8 +25,7 @@ I am intersted
     <img src="images/showmyfuturedog.png" alt="Image" style="width: 200px; height: auto;">
   </div>
   <div style="flex: 1;">
-   
-**Show my future dog: Dog Recommendation System Using Euclidean Distance, 2022**
+    **Show my future dog: Dog Recommendation System Using Euclidean Distance, 2022**
     [Code](https://github.com/gihonglee/Dog_Breed_Recommendation) [Demo](http://www.showmyfuturedog.com/)
   </div>
 </div>
