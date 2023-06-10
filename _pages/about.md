@@ -25,8 +25,8 @@ I am intersted in
     <img src="images/showmyfuturedog.png" alt="Image" style="width: 200px; height: auto;">
   </div>
   <div style="flex: 1;">
-    <h2>Show my future dog: Dog Recommendation System Using Euclidean Distance, 2022</h2>
-    <a href="https://github.com/gihonglee/Dog_Breed_Recommendation">Code</a> <strong>Bold Text</strong>
-    <a href="http://www.showmyfuturedog.com/">Demo</a> <strong>Bold Text</strong>
+    <strong>Show my future dog: Dog Recommendation System Using Euclidean Distance, 2022</strong>
+    <a href="https://github.com/gihonglee/Dog_Breed_Recommendation">[Code]</a>,
+    <a href="http://www.showmyfuturedog.com/">[Demo]</a> 
   </div>
 </div>
