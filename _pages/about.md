@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi my name is Chris Lee. [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com)
+I am a Data Scientist at Under Armour. I have a Bacholor's Degree in Applied Mathematics at [Auburn University](https://www.auburn.edu/) and currently working on a Master's Degree in Data Science at [The University of Texas at Austin](https://www.utexas.edu/)
 
 ## Projects
 
