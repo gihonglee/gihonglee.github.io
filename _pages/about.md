@@ -20,9 +20,7 @@ I am intersted
 
 <!-- ![Alt text](images/showmyfuturedog.png "img") -->
 
-## Show my future dog: Dog Recommendation System Using Euclidean Distance, 2022
-
-[Code](https://github.com/gihonglee/Dog_Breed_Recommendation) [Demo](http://www.showmyfuturedog.com/)
+**Show my future dog: Dog Recommendation System Using Euclidean Distance, 2022**
 
 <div style="display: flex;">
   <div style="flex: 1;">
@@ -30,5 +28,6 @@ I am intersted
   </div>
   <div style="flex: 1;">
     Text goes here.
+    [Code](https://github.com/gihonglee/Dog_Breed_Recommendation) [Demo](http://www.showmyfuturedog.com/)
   </div>
 </div>
