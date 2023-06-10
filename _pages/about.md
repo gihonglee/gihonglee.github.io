@@ -18,8 +18,17 @@ I am intersted
 
 ## Projects
 
-![Alt text](images/showmyfuturedog.png "img")
+<!-- ![Alt text](images/showmyfuturedog.png "img") -->
 
 ## Show my future dog: Dog Recommendation System Using Euclidean Distance, 2022
 
-[code](https://github.com/gihonglee/Dog_Breed_Recommendation) [Demo](http://www.showmyfuturedog.com/)
+[Code](https://github.com/gihonglee/Dog_Breed_Recommendation) [Demo](http://www.showmyfuturedog.com/)
+
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <img src="images/showmyfuturedog.png" alt="Image" style="width: 200px; height: auto;">
+  </div>
+  <div style="flex: 1;">
+    Text goes here.
+  </div>
+</div>
