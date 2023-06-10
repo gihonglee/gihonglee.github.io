@@ -26,8 +26,7 @@ I am intersted in
   </div>
   <div style="flex: 1;">
     <h2>Show my future dog: Dog Recommendation System Using Euclidean Distance, 2022</h2>
-
-    <p>[Code](https://github.com/gihonglee/Dog_Breed_Recommendation) [Demo](http://www.showmyfuturedog.com/)</p>
-
+    <a href="https://github.com/gihonglee/Dog_Breed_Recommendation">Code</a> <strong>Bold Text</strong>
+    <a href="http://www.showmyfuturedog.com/">Demo</a> <strong>Bold Text</strong>
   </div>
 </div>
