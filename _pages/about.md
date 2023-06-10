@@ -10,6 +10,6 @@ redirect_from:
 
 Hi my name is Chris Lee. [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com)
 
-# Projects
+## Projects
 
 ---
