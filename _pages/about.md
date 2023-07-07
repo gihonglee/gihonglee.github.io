@@ -12,9 +12,8 @@ I am a Data Scientist at [Under Armour](https://www.underarmour.com/). I have a 
 
 I am intersted in
 
-- Time Series Forecasting
-- Regression Analysis
-- MLOps using AWS Infrastructures
+- Intermittent and Sparse Stock Keeping Unit(SKU) Demand Forecasting in a Large Scale
+- MLOps with AWS Infrastructures
 
 ## Projects
 
